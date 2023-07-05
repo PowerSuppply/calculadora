@@ -1,0 +1,17 @@
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\bin\Debug\net6.0-windows\CalculadoraReAL.exe
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\bin\Debug\net6.0-windows\CalculadoraReAL.deps.json
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\bin\Debug\net6.0-windows\CalculadoraReAL.runtimeconfig.json
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\bin\Debug\net6.0-windows\CalculadoraReAL.dll
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\bin\Debug\net6.0-windows\CalculadoraReAL.pdb
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.vbproj.AssemblyReference.cache
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.Form1.resources
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.vbproj.GenerateResource.cache
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.AssemblyInfoInputs.cache
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.AssemblyInfo.vb
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.vbproj.CoreCompileInputs.cache
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.dll
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\refint\CalculadoraReAL.dll
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.pdb
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\CalculadoraReAL.genruntimeconfig.cache
+C:\Users\Jameeeees\source\repos\CalculadoraReAL\CalculadoraReAL\obj\Debug\net6.0-windows\ref\CalculadoraReAL.dll
